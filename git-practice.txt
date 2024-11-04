@@ -1,0 +1,3 @@
+git연습
+
+git config --list
